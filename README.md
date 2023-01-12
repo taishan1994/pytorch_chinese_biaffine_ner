@@ -1,0 +1,2 @@
+# pytorch_chinese_biaffine_ner
+使用biaffine的中文命名实体识别
